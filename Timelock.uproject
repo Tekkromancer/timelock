@@ -12,7 +12,7 @@
 			]
 		},
 		{
-			"Name": "Cargo",
+			"Name": "CascadeToNiagaraConverter",
 			"Enabled": true
 		}
 	]
